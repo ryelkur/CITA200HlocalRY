@@ -1,8 +1,9 @@
+Welcome to the CTA200H wiki!
 
-This course is for summer undergraduates performing research in astrophysics at University of Toronto.  The goal is to provide training to help students be successful with the computation aspects of their summer research program.
+This course is for summer undergraduates performing research in astrophysics at University of Toronto, including but not limited to participants in UoT's Summer Undergraduate Research Program (or SURP). The goal is to provide training to help students be successful with the computation aspects of their summer research program.
 
 ===Logistics===
-The course will run every afternoon from '''1:00pm to 5:00pm''', from '''Tuesday May 8''' to '''Friday May 18'''.
+The course will run every afternoon from '''1:00pm to 5:00pm''', from '''Tuesday May 7''' to '''Friday May 17'''.
 This 4-hour block will be split into two hours of lecture followed by two hours of tutorial time, in which students will work on their course homework.
 
 Location: '''MP 257''' -- computer lab on the second floor of the McLennan annex.
@@ -11,12 +12,8 @@ Location: '''MP 257''' -- computer lab on the second floor of the McLennan annex
 *Course coordinator: Norm Murray -- murray at cita utoronto ca
 *Tutorial TA: George Stein -- gstein at cita utoronto ca
 *Lecturers:
-**Terrence Tricco -- ttricco at cita utoronto ca 
-**Carl Haster -- haster at cita utoronto ca
-**Mike Nolta -- mike at nolta net
-**Alex van Engelen -- engelen at cita utoronto ca
-**Joel Meyers -- jmeyers at cita utoronto ca
-**Dan Tamayo -- dtamayo at cita utoronto ca
+**TBD -- ?? at cita utoronto ca
+
 
 
 ===Timetable===
@@ -28,41 +25,41 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |Instructor
 |Topic
 |-
-|1. Tues May 8
+|1. Tues May 7
 |Norm
 |[[Lecture 1 |Scientific computing workflow in Linux]]
 |-
-|2. Weds May 9
+|2. Weds May 8
 |Norm
-|[https://github.com/ttricco/cta200h/tree/master/lecture2 Language intro example: python] 
+|[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python] 
 |-
-|3. Thurs May 10
+|3. Thurs May 9
 |Terrence
-|[https://github.com/ttricco/cta200h/tree/master/lecture3  Intro to Numerical Computing]
+|[https://github.com/CITA/CTA200H/tree/master/lecture3  Intro to Numerical Computing]
 |-
-|4. Fri May 11
+|4. Fri May 10
 |Mike
-|[https://github.com/ttricco/cta200h/tree/master/lecture4  High-performance Computing (Scinet)]
+|[https://github.com/CITA/CTA200H/tree/master/lecture4  High-performance Computing (Scinet)]
 |-
-|5. Mon May 14
+|5. Mon May 13
 |Alex
-|[https://github.com/ttricco/cta200h/tree/master/lecture5  Fourier Methods]
+|[https://github.com/CITA/CTA200H/tree/master/lecture5  Fourier Methods]
 |-
-|6. Tues May 15
+|6. Tues May 14
 |Joel
-|[https://github.com/ttricco/cta200h/tree/master/lecture6 Symbolic Computation]
+|[https://github.com/CITA/CTA200H/tree/master/lecture6 Symbolic Computation]
 |-
-|7. Weds May 16
+|7. Weds May 15
 | Carl
-|[https://github.com/ttricco/cta200h/tree/master/lecture7 Statistics and Data Analysis Tools]
+|[https://github.com/CITA/CTA200H/tree/master/lecture7 Statistics and Data Analysis Tools]
 |-
-|8. Thurs May 17
+|8. Thurs May 16
 |Carl
-|[https://github.com/ttricco/cta200h/tree/master/lecture8 Monte Carlo Methods]
+|[https://github.com/CITA/CTA200H/tree/master/lecture8 Monte Carlo Methods]
 |-
-|9. Fri May 18
+|9. Fri May 17
 |Dan
-|[https://github.com/ttricco/cta200h/tree/master/lecture9 Machine Learning]
+|[https://github.com/CITA/CTA200H/tree/master/lecture9 Machine Learning]
 |-
 
 ===Marking Scheme===
@@ -84,11 +81,11 @@ The mark will be determined on the basis of three items:
 ===Homeworks===
 In the first week students will work on a homework problem set related to the first week's lectures.  For the second week they will work on a week-long project that will be closely related to the research they do for the rest of the summer.  They will hand in their results for this project at the end of the course.
 
-The first problem set can be found [[here|https://github.com/ttricco/cta200h/blob/master/problemset1/problemset1.pdf]] 
+The first problem set can be found [[here|https://github.com/CITA/CTA200H/blob/master/problemset1/problemset1.pdf]] 
 
 ===Using the System===
 To download all course material to your computer:
 
-'''git clone https://github.com/ttricco/cta200h.git'''
+'''git clone https://github.com/CITA/CTA200H.git'''
 
 See [[Computing-System-Information|this page]] on how to use the computing resources.
