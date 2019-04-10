@@ -54,7 +54,7 @@ exit
 ## Course Material
 
 The course homepage is [https://github.com/CITA/CTA200H/wiki]().  
-Material for the first lecture, Scientific computing workflow in Linux, can be accessed from the sidebar. Material for the rest of the course is available online at [https://github.com/ttricco/cta200h](). To follow the exercises you should copy the material to your computer with
+Material for the first lecture, Scientific computing workflow in Linux, can be accessed from the sidebar. Material for the rest of the course is available online at [https://github.com/CITA/CTA200H](). To follow the exercises you should copy the material to your computer with
 
 `git clone https://github.com/CITA/CTA200H.wiki.git`
 
