@@ -1,6 +1,6 @@
-# CTA200 2018 Computing Information Sheet
+# CTA200 2019 Computing Information Sheet
 
-Welcome to the CITA Computing Course 2018! If you do not already have a CITA account, a course account is assigned to you and a sheet with your username and password should accompany this instruction. Below is some information to get you started with the CITA computing resources.
+Welcome to the CITA Computing Course 2019! If you do not already have a CITA account, a course account is assigned to you and a sheet with your username and password should accompany this instruction. Below is some information to get you started with the CITA computing resources.
 
 For more information, please visit the CITA Wiki at [http://wiki.cita.utoronto.ca/]()
 
@@ -53,10 +53,10 @@ exit
 
 ## Course Material
 
-The course homepage is [https://github.com/ttricco/cta200h/wiki]().  
+The course homepage is [https://github.com/CITA/CTA200H/wiki]().  
 Material for the first lecture, Scientific computing workflow in Linux, can be accessed from the sidebar. Material for the rest of the course is available online at [https://github.com/ttricco/cta200h](). To follow the exercises you should copy the material to your computer with
 
-`git clone https://github.com/ttricco/cta200h.git`
+`git clone https://github.com/CITA/CTA200H.wiki.git`
 
 ## Software Environment
 
