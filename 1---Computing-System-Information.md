@@ -2,7 +2,7 @@
 
 Welcome to the CITA Computing Course 2019! If you do not already have a CITA account, a course account is assigned to you and a sheet with your username and password should accompany this instruction. Below is some information to get you started with the CITA computing resources.
 
-For more information, please visit the CITA Wiki at [http://wiki.cita.utoronto.ca/]()
+For more information, please visit the CITA Wiki at [http://wiki.cita.utoronto.ca](https://wiki.cita.utoronto.ca/index.php/Welcome_to_the_CITA_Wiki).
 
 ## Access CITA Computing System from a Computer in MP257
 
