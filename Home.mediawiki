@@ -16,7 +16,7 @@ Location: '''MP 257''' -- computer lab on the second floor of the McLennan annex
 
 
 
-===Timetable===
+===Timetable & Lecture Topics===
 This is a list of dates and topics for the course. (Preliminary -- subject to change.) 
 
 {| class="wikitable"
