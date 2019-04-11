@@ -34,8 +34,8 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python] 
 |-
 |3. Thurs May 9
-|Terrence
-|[https://github.com/CITA/CTA200H/tree/master/lecture3  Intro to Numerical Computing]
+|TBD
+|[https://github.com/CITA/CTA200H/tree/master/lecture3  Intro to Numerical Computing (Tricco)]
 |-
 |4. Fri May 10
 |Mike
@@ -46,20 +46,20 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |[https://github.com/CITA/CTA200H/tree/master/lecture5  Fourier Methods]
 |-
 |6. Tues May 14
-|Joel
-|[https://github.com/CITA/CTA200H/tree/master/lecture6 Symbolic Computation]
+|TBD
+|[https://github.com/CITA/CTA200H/tree/master/lecture6 Symbolic Computation (Joel Meyers)]
 |-
 |7. Weds May 15
-| Carl
-|[https://github.com/CITA/CTA200H/tree/master/lecture7 Statistics and Data Analysis Tools]
+| TBD
+|[https://github.com/CITA/CTA200H/tree/master/lecture7 Statistics and Data Analysis Tools (Carl-Johan Haster)]
 |-
 |8. Thurs May 16
-|Carl
-|[https://github.com/CITA/CTA200H/tree/master/lecture8 Monte Carlo Methods]
+|TBD
+|[https://github.com/CITA/CTA200H/tree/master/lecture8 Monte Carlo Methods (Carl-Johan Haster)]
 |-
 |9. Fri May 17
-|Dan
-|[https://github.com/CITA/CTA200H/tree/master/lecture9 Machine Learning]
+|TBD
+|[https://github.com/CITA/CTA200H/tree/master/lecture9 Machine Learning (Dan Tamayo)]
 |-
 
 ===Marking Scheme===
