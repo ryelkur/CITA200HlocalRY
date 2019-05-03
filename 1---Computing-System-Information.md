@@ -62,8 +62,7 @@ Material for the first lecture, Scientific computing workflow in Linux, can be a
 
 ## Software Environment
 
-CITA servers run Linux CentOS 6 and come with the usual compilers (gcc, gfortran, icc, ifort), python, scientific
-software including Matlab, Mathematica (limited number of licenses), IDL, and libraries such as OpenMPI, fftw, gsl and much more. Multiple versions of most libraries exist according to need and are activated using the **modules** environment. For example, to view the available modules type:
+CITA servers run Linux CentOS 6 and 7 and come with the usual compilers (gcc, gfortran, icc, ifort), python, scientific software including Matlab, Mathematica (limited number of licenses), IDL, and libraries such as OpenMPI, fftw, gsl and much more. Multiple versions of most libraries exist according to need and are activated using the **modules** environment. For example, to view the available modules type:
 
 `module avail`
 
