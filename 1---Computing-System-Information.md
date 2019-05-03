@@ -41,7 +41,7 @@ The same commands also work on your personal computer. You just need to install 
 ## Change password
 
 You need to change your password to something private on the host `trinity`.
-On the `cosmoN` desktop open a terminal and do the following:
+On your `cosmoN` desktop open a terminal and do the following:
 
 ```
 ssh trinity
