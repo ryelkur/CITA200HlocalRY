@@ -167,11 +167,11 @@ less file-n
 
 Copy the vim cheatsheet
 
-`scp lobster:/scratch/cta200/GSVimCheatsheet.png
+`scp lobster:/scratch/murray/cta200/GSVimCheatsheet.png
 /mnt/scratch-lustre/$USER`
 
 Oops, "Permission denied"! Tell your instructor to give this file group
 read permission then attempt again.
 
 That is, the instructor needs to run on lobster `chmod g+r
-/scratch/cta200/GSVimCheatsheet.png`
+/scratch/murray/cta200/GSVimCheatsheet.png`
