@@ -18,6 +18,8 @@ ls
 cd eigenmvn
 ```
 
+### Read the README..md file
+
 ### Prepare for compilation
 
 Breakdown of the compilation command:
