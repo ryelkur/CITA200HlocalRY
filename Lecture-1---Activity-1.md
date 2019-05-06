@@ -1,6 +1,6 @@
-[http://www.pixelbeat.org/cmdline.html]()
+[Unix terminal command line cheat sheet ](http://www.pixelbeat.org/cmdline.html)
 
-[http://cli.learncodethehardway.org/bash_cheat_sheet.pdf]()
+[//]: # ([http://cli.learncodethehardway.org/bash_cheat_sheet.pdf])
 
 ## Gaussian 2D
 
