@@ -160,9 +160,6 @@ The first push.
 
 `git push --set-upstream origin master`
 
-```bash
-cd ~/repos/gauss2d.git
-```
 
 Next task: Edit the C and Python source code files. Add a program description to both files.
 
