@@ -29,12 +29,13 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |[[Lecture 1 |Scientific computing workflow in Linux]]
 |-
 |2. Weds May 8
-|Norm Murray
-|[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python] 
+|Almog Yalinewich
+|[Defensive Programming] <!--[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python]-->
 |-
 |3. Thurs May 9
 |Norm Murray
-|[https://github.com/CITA/CTA200H/tree/master/lecture3  Intro to Numerical Computing (Tricco)]
+|[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python]
+<!--[https://github.com/CITA/CTA200H/tree/master/lecture3  Intro to Numerical Computing (Tricco)]-->
 |-
 |4. Fri May 10
 |Mike Nolta
