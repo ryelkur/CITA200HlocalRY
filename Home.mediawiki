@@ -86,6 +86,8 @@ In the first week students will work on a homework problem set related to the fi
 
 The first problem set can be found [[here|https://github.com/CITA/CTA200H/blob/master/problemset1/problemset1.pdf]] 
 
+The final project is due at 11:59pm on Tuesday May 21st. Please email all materials to cta200@cita.utoronto.ca, and cc your supervisor(s)
+
 ===Using the System===
 To download all course material to your computer:
 
