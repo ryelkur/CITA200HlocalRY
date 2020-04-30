@@ -3,16 +3,19 @@ Welcome to the CTA200H wiki!
 This course is for summer undergraduates performing research in astrophysics at University of Toronto, including but not limited to participants in UoT's Summer Undergraduate Research Program (or SURP). The goal is to provide training to help students be successful with the computation aspects of their summer research program.
 
 ===Logistics===
-The course will run every afternoon from '''1:00pm to 5:00pm''', from '''Tuesday May 7''' to '''Friday May 17'''.
+The course will run every afternoon from '''1:00pm to 5:00pm''', from '''Tuesday May 5''' to '''Friday May 15'''.
 This 4-hour block will be split into two hours of lecture followed by two hours of tutorial time, in which students will work on their course homework.
 
-Location: '''MP 257''' -- computer lab on the second floor of the McLennan annex.
+Location: The course will be held remotely, via zoom, with access to CITA computers via VNC Remote Desktop
+[https://wiki.cita.utoronto.ca/index.php/VNC_Remote_Desktop (link to VNC instructions here)]
 
 ===Instructors===
 *Course coordinator: Norm Murray -- murray at cita utoronto ca
-*Tutorial TA: George Stein -- gstein at cita utoronto ca
+*Tutorial TA: Fergus Horrobin -- horrobin at astro utoronto ca
 *Lecturers:
-**Almog Yalinewich -- 
+**Norman Murray--
+**Almog Yalinewich --
+**Mike Nolta--
 
 
 ===Timetable & Lecture Topics===
@@ -24,43 +27,43 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |Instructor
 |Topic
 |-
-|1. Tues May 7
+|1. Tues May 5
 |Norm Murray
 |[[Lecture 1 |Scientific computing workflow in Linux]]
 |-
-|2a. Weds May 8, 1-2
+|2a. Weds May 6, 1-2
 |Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python]
 |-
 |2b. Weds May 8, 2-3
-|Almog Yalinewich
-|[https://github.com/CITA/CTA200H/tree/master/lecture_2_almog Defensive Programming] <!--[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python]-->
-|-
-|3. Thurs May 9
 |Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture3  Intro to Numerical Computing (Tricco)]
 |-
-|4. Fri May 10
+|3. Thurs May 7
+|Almog Yalinewich
+|[https://github.com/CITA/CTA200H/tree/master/lecture_2_almog Defensive Programming] <!--[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python]-->
+|-
+|4. Fri May 8
 |Mike Nolta
 |[https://github.com/CITA/CTA200H/tree/master/lecture4  High-performance Computing (Nolta)]
 |-
-|5. Mon May 13
+|5. Mon May 11
 |Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture5  Fourier Methods]
 |-
-|6. Tues May 14
+|6. Tues May 12
 |Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture6 Symbolic Computation (Joel Meyers)]
 |-
-|7. Weds May 15
+|7. Weds May 13
 | Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture7 Statistics and Data Analysis Tools (Carl-Johan Haster)]
 |-
-|8. Thurs May 16
+|8. Thurs May 14
 |Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture8 Monte Carlo Methods (Carl-Johan Haster)]
 |-
-|9. Fri May 17
+|9. Fri May 15
 |Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture9 Machine Learning (Dan Tamayo)]
 |-
@@ -82,11 +85,11 @@ The mark will be determined on the basis of three items:
 |}
 
 ===Homeworks===
-In the first week students will work on a homework problem set related to the first week's lectures.  For the second week they will work on a week-long project that will be closely related to the research they do for the rest of the summer.  They will hand in their results for this project at the end of the course.
+In the first week students will work on homework problems related to the first week's lectures.  For the second week they will work on a week-long project that will be closely related to the research they do for the rest of the summer.  They will hand in their results for this project at the end of the course.
 
 The first problem set can be found [[here|https://github.com/CITA/CTA200H/blob/master/problemset1/problemset1.pdf]] 
 
-The final project is due at 11:59pm on Tuesday May 21st. Please email all materials to cta200@cita.utoronto.ca, and cc your supervisor(s)
+The final project is due at 11:59pm on Tuesday May 19th. Please email all materials to cta200@cita.utoronto.ca, and cc your supervisor(s)
 
 ===Using the System===
 To download all course material to your computer:
