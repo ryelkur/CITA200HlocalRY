@@ -50,9 +50,7 @@ cosmo2.cita.utoronto.ca:6 (Apr, May, Jun)
 cosmo3.cita.utoronto.ca:6 (Jul, Aug, Sep)
 cosmo4.cita.utoronto.ca:6 (Oct, Nov, Dec)
 ```
-1. You will need to set up a Virtual Network Computing (VNC) connecting to cosmo servers. VNC works with Windows, Macs and Linux computers or laptops. The detailed instructions for setting up a VNC desktop are available here:
-
-[http://wiki.cita.utoronto.ca/index.php/VNC_Remote_Desktop](http://wiki.cita.utoronto.ca/index.php/VNC_Remote_Desktop).
+1. You will need to set up a Virtual Network Computing (VNC) connecting to cosmo servers. VNC works with Windows, Macs and Linux computers or laptops. The detailed instructions for setting up a VNC desktop are available here: [http://wiki.cita.utoronto.ca/index.php/VNC_Remote_Desktop](http://wiki.cita.utoronto.ca/index.php/VNC_Remote_Desktop).
 
 
 2. After setting up VNC, you can connect to the remote desktop on one of the cosmo servers from your home computer. You will have to install a vnc client, for example TigerVNC or RealVNC for Mac and OpenVNC for Linux.
