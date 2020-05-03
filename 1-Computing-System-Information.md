@@ -4,6 +4,8 @@ Welcome to the CITA Computing Course 2020! A course account is assigned to you a
 
 For more information, please visit the CITA Wiki at [http://wiki.cita.utoronto.ca](https://wiki.cita.utoronto.ca/index.php/Welcome_to_the_CITA_Wiki).
 
+You will need your CITA login credentials to access the wiki.
+
 ## Remote Access with Two-factor Authentication
 Remote ssh logins must go through the CITA gateway machine `gw.cita.utoronto.ca`. The gateway
 requires your username and password along with a 6-digit verication code to login. The Google Authenticator (GAuth) app provides a code that changes every 30 seconds. You will need to install GAuth in a
@@ -38,7 +40,6 @@ CITA provides a virtual private network (VPN) connection which simplies remote a
 
 Read here to learn how to set it up: [http://wiki.cita.utoronto.ca/index.php/CITA_Remote_Access](http://wiki.cita.utoronto.ca/index.php/CITA_Remote_Access).
 
-You will need your CITA login credentials to access the wiki.
 
 ## Access CITA Computing System remotely from your home computer
 
