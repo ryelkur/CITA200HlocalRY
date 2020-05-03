@@ -1,55 +1,61 @@
-# CTA200 2019 Computing Information Sheet
+# CTA200 2020 Computing Information Sheet
 
-Welcome to the CITA Computing Course 2019! If you do not already have a CITA account, a course account is assigned to you and a sheet with your username and password should accompany this instruction. Below is some information to get you started with the CITA computing resources.
+Welcome to the CITA Computing Course 2020! A course account is assigned to you and an instruction has been emailed to you. Below is some information to get you started with the CITA computing resources.
 
 For more information, please visit the CITA Wiki at [http://wiki.cita.utoronto.ca](https://wiki.cita.utoronto.ca/index.php/Welcome_to_the_CITA_Wiki).
 
-## Access CITA Computing System from a Computer in MP257
+## Remote Access with Two-factor Authentication
+Remote ssh logins must go through the CITA gateway machine `gw.cita.utoronto.ca`. The gateway
+requires your username and password along with a 6-digit verication code to login. The Google Authenticator (GAuth) app provides a code that changes every 30 seconds. You will need to install GAuth in a
+browser or on your smartphone to generate these codes.
 
-A server is assigned to you based on where you are seated according to this diagram:
+**Browser Instructions**
+1. Open a browser at this URL: `https://gauth.cita.utoronto.ca`
+2. Click on the pencil icon in the upper right and then the `+Add` button. Enter CITA Account name and type in or cut and paste your Secret key. Your Secret key can be found in the Account info sheet that has been emailed to you.
+3. You can delete the EXAMPLE key if you wish.
 
-            ----------
-            | podium |
-            ----------
-    ---------------------------
-    |   cosmo1   |   cosmo2   |
-    ---------------------------
-    |   cosmo4   |   cosmo3   |
-    ---------------------------
-            ----------
-            |  door  |
-            ----------
+**Smartphone Instructions**
+1. Install the Google Authenticator app on your smartphone (search Google Play or the App Store).
+2. Add you Secret key by taking a picture of the QR code or type it in.
 
-
-1. Open a "**Cygwin64 Terminal**" and enter the following, replacing [server] and [username] with your assigned server -- **cosmo1**, **cosmo2**, **cosmo3** or **cosmo4** and username.
-
-    `ssh -g -L5912:[server]:5912 [username]@gw2.cita.utoronto.ca`
-
-    - If prompt "Are you sure you want to continue connecting (yes/no)?", type "yes".
-    - **NB**: This terminal needs to remain open in order to maintain connection to the CITA system.
-2. Open "**TigerVNC Viewer**", enter the following then click "Connect".
-
-    `localhost:12`
-3. A new window with graphic desktop should pop up. Enter your CITA or course username and password to log in.
-4. Press **F8** to toggle full screen mode.
-5. Make sure you **log out** and **kill the ssh session** (type "exit" in the Cygwin prompt) when you leave the
-computer.
+Once you have logged into the gateway, you can then ssh login from there to other CITA servers and the cluster to conduct your research.
 
 
-The same commands also work on your personal computer. You just need to install a vnc client, for example TigerVNC or RealVNC for Mac and OpenVNC for Linux.
-
-## Change password
-
-You need to change your password to something private on the host `trinity`.
-On your `cosmoN` desktop open a terminal and do the following:
+## Password Change
+Open a terminal to log in to the CITA gateway `gw.cita.utoronto.ca` and change your password to something private immediately following these steps:
 
 ```
-ssh trinity
+ssh username@gw.cita.utoronto.ca
 /cita/local/bin/passwd
 # enter old password
 # enter new password and confirm
 exit
 ```
+On Windows computers, the powershell includes an ssh client so use that for your terminal. On Linux and Mac computers, open a terminal app.
+
+## Remote Access with CITA VPN
+CITA provides a virtual private network (VPN) connection which simplies remote access to CITA computers and services. Once set up on your remote computer, you can login directly to CITA computers without using the gateway, copy data with scp, sftp or rsync and access the software license server. It is the best way to gain access to CITA remotely.
+
+Read here to learn how to set it up: [http://wiki.cita.utoronto.ca/index.php/CITA_Remote_Access](http://wiki.cita.utoronto.ca/index.php/CITA_Remote_Access).
+
+You will need your CITA login credentials to access the wiki.
+
+## Access CITA Computing System remotely from your home computer
+
+A server is assigned to you based on your birthday:
+```
+cosmo1.cita.utoronto.ca:6 (Jan, Feb, Mar)
+cosmo2.cita.utoronto.ca:6 (Apr, May, Jun)
+cosmo3.cita.utoronto.ca:6 (Jul, Aug, Sep)
+cosmo4.cita.utoronto.ca:6 (Oct, Nov, Dec)
+```
+1. You will need to set up a Virtual Network Computing (VNC) connecting to cosmo servers. VNC works with Windows, Macs and Linux computers or laptops. The detailed instructions for setting up a VNC desktop are available here:
+
+[http://wiki.cita.utoronto.ca/index.php/VNC_Remote_Desktop](http://wiki.cita.utoronto.ca/index.php/VNC_Remote_Desktop).
+
+
+2. After setting up VNC, you can connect to the remote desktop on one of the cosmo servers from your home computer. You will have to install a vnc client, for example TigerVNC or RealVNC for Mac and OpenVNC for Linux.
+
 
 **Please destroy the sheet of paper with username and password after password change.**
 
@@ -76,4 +82,4 @@ For **Python**, the current latest versions on our system are 2.7.14 and 3.6.4. 
 
 `module load gcc/5.4.0 python/2.7.12`
 
-Please refer to article "[Using and Developing with Python](http://wiki.cita.utoronto.ca/mediawiki/index.php/Using_and_Developing_with_Python)" in the CITA wiki for instructions on installing Python modules on your own.
+Please refer to article "[Using and Developing with Python](https://wiki.cita.utoronto.ca/index.php/Using_and_Developing_with_Python)" in the CITA wiki for instructions on installing Python modules on your own.
