@@ -33,7 +33,7 @@ ssh username@gw.cita.utoronto.ca
 # enter new password and confirm
 exit
 ```
-On Windows computers, the powershell includes an ssh client so use that for your terminal. On Linux and Mac computers, open a terminal app.
+On Windows computers, the PowerShell includes an ssh client so use that for your terminal. On Linux and Mac computers, open a terminal app.
 
 ## Remote Access with CITA VPN
 CITA provides a virtual private network (VPN) connection which simplies remote access to CITA computers and services. Once set up on your remote computer, you can login directly to CITA computers without using the gateway, copy data with scp, sftp or rsync and access the software license server. It is the best way to gain access to CITA remotely.
