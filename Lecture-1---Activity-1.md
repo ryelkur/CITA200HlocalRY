@@ -7,7 +7,8 @@
 > Hi,
 
 > I have a C++ code that generates a 2-d array with Gaussian
-distribution in my home directory /home/cta200. There's a Python script
+distribution in my home directory /home/cta200 (recall that my user name is cta200).
+There's a Python script
 that generates the plot from an output file. Please copy the project
 into your `/mnt/scratch-lustre` space and run it with different
 parameters. I compiled with gcc/5.4.0, but other versions should work
