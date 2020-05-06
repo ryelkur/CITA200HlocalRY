@@ -43,8 +43,8 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |Fergus Horrobin
 |[https://github.com/CITA/CTA200H/tree/master/lecture5  Numerical Computing]
 |-
-|5. Mon May 11
-|Mike Nolta
+|5. Mon May 11 
+|1-2 Mike Nolta
 |[https://github.com/CITA/CTA200H/tree/master/lecture4  High-performance Computing (Nolta)]
 |-
 |6. Tues May 12
