@@ -41,7 +41,7 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |-
 |4. Fri May 8
 |Fergus Horrobin
-|[https://github.com/CITA/CTA200H/tree/master/lecture5  Numerical Computing]
+|[https://github.com/CITA/CTA200H/tree/master/lecture4_2020_fergus  Numerical Computing]
 |-
 |5. Mon May 11 
 |1-2 Mike Nolta
