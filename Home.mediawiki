@@ -27,39 +27,39 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |Instructor
 |Topic
 |-
-|1. Tues May 5
+|1. Tues May 4
 |Norm Murray
 |[[Lecture 1 |Scientific computing workflow in Linux]]
 |-
-|2a. Weds May 6, 1-3
+|2a. Weds May 5, 1-3
 |Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python]
 |-
-|3. Thurs May 7
-|Almog Yalinewich
+|3. Thurs May 6
+|Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture_2_almog Defensive Programming] <!--[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python]-->
 |-
-|4. Fri May 8
+|4. Fri May 7
 |Fergus Horrobin
 |[https://github.com/CITA/CTA200H/tree/master/lecture4_2020_fergus  Numerical Computing]
 |-
-|5. Mon May 11 
+|5. Mon May 10 
 |1-2 Mike Nolta
 |[https://github.com/CITA/CTA200H/tree/master/lecture4  High-performance Computing (Nolta)]
 |-
-|6. Tues May 12
+|6. Tues May 11
 |Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture6 Symbolic Computation (Joel Meyers)]
 |-
-|7. Weds May 13
+|7. Weds May 12
 | Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture7 Statistics and Data Analysis Tools (Carl-Johan Haster)]
 |-
-|8. Thurs May 14
+|8. Thurs May 13
 |Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture8 Monte Carlo Methods (Carl-Johan Haster)]
 |-
-|9. Fri May 15
+|9. Fri May 14
 |Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture9 Machine Learning (Dan Tamayo)]
 |-
