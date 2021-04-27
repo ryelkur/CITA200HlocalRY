@@ -73,10 +73,10 @@ The mark will be determined on the basis of three items:
 |10%
 |-
 |2. Homework: 
-|30%
+|40%
 |-
 |3. Project:
-| 60%
+|50%
 |-
 |}
 
