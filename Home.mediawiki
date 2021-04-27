@@ -93,5 +93,3 @@ The problem set will be divided into smaller assignments to be handed in every c
 To download all course material to your computer:
 
 '''git clone https://github.com/CITA/CTA200H.git'''
-
-See [[Computing-System-Information|this page]] on how to use the computing resources.
