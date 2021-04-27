@@ -37,7 +37,7 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |-
 |3. Thurs May 6
 |Norm Murray
-|[https://github.com/CITA/CTA200H/tree/master/lecture_2_almog Defensive Programming] <!--[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python]-->
+|[https://github.com/CITA/CTA200H/tree/master/lecture_2_almog Object-oriented Programming, Defensive Programming] <!--[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python]-->
 |-
 |4. Fri May 7
 |Fergus Horrobin
