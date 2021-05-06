@@ -87,7 +87,7 @@ The problem set will be divided into smaller assignments to be handed in every c
 
 [[Assignment 1|https://github.com/CITA/CTA200H/tree/master/assignment1_2021]] due by 5PM (after class) on Wednesday May 5th.
 
-<!--- [[Assignment 2|https://github.com/CITA/CTA200H/tree/master/assignment2_2020]] due by 11:59PM on Friday May 7th. -->
+[[Assignment 2|https://github.com/CITA/CTA200H/tree/master/assignment2_2021]] due by 5PM on Saturday May 8th.
 
 ===Using the System===
 To download all course material to your computer:
