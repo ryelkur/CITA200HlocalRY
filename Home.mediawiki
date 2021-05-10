@@ -89,6 +89,11 @@ The problem set will be divided into smaller assignments to be handed in every c
 
 [[Assignment 2|https://github.com/CITA/CTA200H/tree/master/assignment2_2021]] due by 5PM on Saturday May 8th.
 
+===Project===
+In the second week students will work on a project supplied either by their supervisor or the instructor. The project is due by midnight, Friday May 14th
+
+
+
 ===Using the System===
 To download all course material to your computer:
 
