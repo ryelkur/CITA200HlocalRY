@@ -53,7 +53,7 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |-
 |7. Weds May 12
 | Norm Murray
-|[https://github.com/CITA/CTA200H/tree/master/lecture6 Data io/data manipulation (Mubdi Rahman) ]
+|[https://github.com/CITA/CTA200H/tree/master/datawrangling Data io/data manipulation (Mubdi Rahman) ]
 |-
 |8. Thurs May 13
 |Norm Murray
