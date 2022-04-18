@@ -31,7 +31,7 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |Norm Murray
 |[[Lecture 1 |Scientific computing workflow in Linux]]
 |-
-|2a. Weds May 4, 1-3
+|2. Weds May 4
 |Norm Murray
 |[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python]
 |-
