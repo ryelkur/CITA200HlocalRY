@@ -29,27 +29,27 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |-
 |1. Tues May 3
 |Norm Murray
-|[[Lecture 1 |Scientific computing workflow in Linux]]
+|[[Lecture 1 |Using the CITA Systems, Linux and Git]]
 |-
 |2. Weds May 4
 |Norm Murray
-|[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python]
+|[https://github.com/CITA/CTA200H/tree/master/lecture_2_python_intro Python Language Intro and Workflow]
 |-
 |3. Thurs May 5
-|Norm Murray
-|[https://github.com/CITA/CTA200H/tree/master/lecture_2_almog Object-oriented Programming, Defensive Programming] <!--[https://github.com/CITA/CTA200H/tree/master/lecture2 Language intro example: python]-->
+|Fergus Horrobin
+|[https://github.com/CITA/CTA200H/tree/master/lecture_3_managing_code Structuring Your Projects]
 |-
 |4. Fri May 6
-|Fergus Horrobin
-|[https://github.com/CITA/CTA200H/tree/master/lecture4_2020_fergus  Numerical Computing]
+|Norm/Fergus
+|[https://github.com/CITA/CTA200H/tree/master/lecture_4_numerical_python Numerical Computing]
 |-
 |5. Mon May 9 
-|1-2 Norm/Fergus
+|Norm/Fergus
 |[https://github.com/CITA/CTA200H/tree/master/lecture6 Symbolic Computation (Joel Meyers)]
 |-
 |6. Tues May 10
 |Norm Murray
-|[https://github.com/CITA/CTA200H/tree/master/lecture7 Statistics and Data Analysis Tools (Carl-Johan Haster)]
+|[https://github.com/CITA/CTA200H/tree/master/lecture_6_statistics Statistics and Data Analysis Tools (Carl-Johan Haster)]
 |-
 |7. Weds May 11
 | Norm Murray
@@ -57,11 +57,11 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |-
 |8. Thurs May 12
 |Norm Murray
-|[https://github.com/CITA/CTA200H/tree/master/lecture8 Monte Carlo Methods (Carl-Johan Haster)]
+|[https://github.com/CITA/CTA200H/tree/master/lecture_8_monte_carlo Monte Carlo Methods (Carl-Johan Haster)]
 |-
 |9. Fri May 13
 |Norm Murray
-|[https://github.com/CITA/CTA200H/tree/master/lecture9 Machine Learning (Dan Tamayo)]
+|[https://github.com/CITA/CTA200H/tree/master/lecture_9_machine_learning Machine Learning (Dan Tamayo)]
 |-
 
 ===Marking Scheme===
@@ -88,7 +88,7 @@ The problem set will be divided into smaller assignments to be handed in every c
 ===Project===
 In the second week students will work on a project supplied either by their supervisor or the instructor. The project is due by midnight, Friday May 14th
 
-[[Project Instructions|https://github.com/CITA/CTA200H/blob/master/cta200h-project-guidelines.pdf]]
+[[Project Instructions and Template|https://github.com/CITA/CTA200H/tree/master/projects]]
 
 
 ===Using the System===
