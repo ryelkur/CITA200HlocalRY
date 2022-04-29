@@ -32,7 +32,7 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |[[Lecture 1 |Using the CITA Systems, Linux and Git]]
 |-
 |2. Weds May 4
-|Norm Murray
+|Norm/Fergus
 |[https://github.com/CITA/CTA200H/tree/master/lecture_2_python_intro Python Language Intro and Workflow]
 |-
 |3. Thurs May 5
