@@ -56,7 +56,7 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |[https://github.com/CITA/CTA200H/tree/master/lecture_7_data_wrangling Data IO/Data Manipulation (Mubdi Rahman) ]
 |-
 |8. Thurs May 12
-|Norm Murray
+|Fergus Horrobin
 |[https://github.com/CITA/CTA200H/tree/master/lecture_8_monte_carlo Monte Carlo Methods (Carl-Johan Haster)]
 |-
 |9. Fri May 13
