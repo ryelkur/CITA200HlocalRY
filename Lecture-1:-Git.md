@@ -14,7 +14,7 @@ One aspect of git is that not only is there a central repository, but also every
 
 The majority of the time you only use the same few git commands. Use `git clone` to create a local copy of an existing repository. You've already used this in the first lecture to create a local copy of the course material, that is,
 
-`git clone https://github.com/ttricco/cta200h.git`
+`git clone git@github.com:CITA/CTA200H.git`
 
 With this you then have all the files that are part of this project and also the history of each file. 
 
