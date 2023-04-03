@@ -3,7 +3,7 @@ Welcome to the CTA200H wiki!
 This course is for summer undergraduates performing research in astrophysics at University of Toronto, including but not limited to participants in UoT's Summer Undergraduate Research Program (or SURP). The goal is to provide training to help students be successful with the computation aspects of their summer research program.
 
 ===Logistics===
-The course will run every afternoon from '''1:00pm to 5:00pm''', from '''Tuesday May 3''' to '''Friday May 13'''.
+The course will run every afternoon from '''1:00pm to 5:00pm''', from '''Tuesday May 9''' to '''Friday May 19'''.
 This 4-hour block will be split into two hours of lecture followed by two hours of tutorial time, in which students will work on their course homework.
 
 Location: The course will be held both in person and remotely, via zoom, with access to CITA computers via ssh/tunnel, or via VNC Remote Desktop
@@ -11,10 +11,10 @@ Location: The course will be held both in person and remotely, via zoom, with ac
 
 ===Instructors===
 *Course coordinator: Norm Murray -- murray at cita utoronto ca
-*Tutorial TA: Fergus Horrobin -- horrobin at astro utoronto ca
+*Tutorial TA: To be determined
 *Lecturers:
 **Norman Murray--
-**Fergus Horrobin --
+**Janosz Dewberrry--
 
 
 
@@ -27,40 +27,40 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |Instructor
 |Topic
 |-
-|1. Tues May 3
+|1. Tues May 9
 |Norm Murray
 |[[Lecture 1 |Using the CITA Systems, Linux and Git]]
 |-
-|2. Weds May 4
-|Norm/Fergus
+|2. Weds May 10
+|Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_2_python_intro Python Language Intro and Workflow]
 |-
-|3. Thurs May 5
-|Fergus Horrobin
+|3. Thurs May 11
+|Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_3_managing_code Structuring Your Projects]
 |-
-|4. Fri May 6
+|4. Fri May 12
 |Norm/Fergus
 |[https://github.com/CITA/CTA200H/tree/master/lecture_4_numerical_python Numerical Computing]
 |-
-|5. Mon May 9 
-|Norm/Fergus
+|5. Mon May 15 
+|Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture6 Symbolic Computation (Joel Meyers)]
 |-
-|6. Tues May 10
-|Norm Murray
+|6. Tues May 16
+|Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_6_statistics Statistics and Data Analysis Tools (Carl-Johan Haster)]
 |-
-|7. Weds May 11
-| Norm Murray
+|7. Weds May 17
+| Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_7_data_wrangling Data IO/Data Manipulation (Mubdi Rahman) ]
 |-
-|8. Thurs May 12
-|Fergus Horrobin
+|8. Thurs May 18
+|Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_8_monte_carlo Monte Carlo Methods (Carl-Johan Haster)]
 |-
-|9. Fri May 13
-|Norm Murray
+|9. Fri May 19
+|Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_9_machine_learning Machine Learning (Dan Tamayo)]
 |-
 
@@ -86,7 +86,7 @@ In the first week students will work on homework problems related to the first w
 The problem set will be divided into smaller assignments to be handed in every couple of days. Assignments will be posted here once announced.
 
 ===Project===
-In the second week students will work on a project supplied either by their supervisor or the instructor. The project is due by midnight, Friday May 14th
+In the second week students will work on a project supplied either by their supervisor or the instructor. The project is due by noon, Monday May 22nd
 
 [[Project Instructions and Template|https://github.com/CITA/CTA200H/tree/master/projects]]
 
