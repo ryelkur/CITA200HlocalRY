@@ -3,7 +3,7 @@ Welcome to the CTA200H wiki!
 This course is for summer undergraduates performing research in astrophysics at University of Toronto, including but not limited to participants in UoT's Summer Undergraduate Research Program (or SURP). The goal is to provide training to help students be successful with the computation aspects of their summer research program.
 
 ===Logistics===
-The course will run every afternoon from '''1:00pm to 5:00pm''', from '''Tuesday May 9''' to '''Friday May 19'''.
+The course will run every afternoon from '''1:00pm to 5:00pm''', from '''Tuesday May 2''' to '''Friday May 12'''.
 This 4-hour block will be split into two hours of lecture followed by two hours of tutorial time, in which students will work on their course homework.
 
 Location: The course will be held both in person and remotely, via zoom, with access to CITA computers via ssh/tunnel, or via VNC Remote Desktop
@@ -27,39 +27,39 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |Instructor
 |Topic
 |-
-|1. Tues May 9
+|1. Tues May 2
 |Norm Murray
 |[[Lecture 1 |Using the CITA Systems, Linux and Git]]
 |-
-|2. Weds May 10
+|2. Weds May 3
 |Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_2_python_intro Python Language Intro and Workflow]
 |-
-|3. Thurs May 11
+|3. Thurs May 4
 |Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_3_managing_code Structuring Your Projects]
 |-
-|4. Fri May 12
+|4. Fri May 5
 |Norm/Fergus
 |[https://github.com/CITA/CTA200H/tree/master/lecture_4_numerical_python Numerical Computing]
 |-
-|5. Mon May 15 
+|5. Mon May 8 
 |Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture6 Symbolic Computation (Joel Meyers)]
 |-
-|6. Tues May 16
+|6. Tues May 9
 |Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_6_statistics Statistics and Data Analysis Tools (Carl-Johan Haster)]
 |-
-|7. Weds May 17
+|7. Weds May 10
 | Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_7_data_wrangling Data IO/Data Manipulation (Mubdi Rahman) ]
 |-
-|8. Thurs May 18
+|8. Thurs May 11
 |Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_8_monte_carlo Monte Carlo Methods (Carl-Johan Haster)]
 |-
-|9. Fri May 19
+|9. Fri May 12
 |Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_9_machine_learning Machine Learning (Dan Tamayo)]
 |-
