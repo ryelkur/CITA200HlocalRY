@@ -1,6 +1,6 @@
 # CTA200 2021 Computing Information Sheet
 
-Welcome to the CITA Computing Course 2021! A course account is assigned to you and an instruction has been emailed to you. Below is some information to get you started with the CITA computing resources.
+Welcome to the CITA Computing Course 2023! A course account is assigned to you and an instruction has been emailed to you. Below is some information to get you started with the CITA computing resources.
 
 For more information, please visit the CITA Wiki at [http://wiki.cita.utoronto.ca](https://wiki.cita.utoronto.ca/index.php/Welcome_to_the_CITA_Wiki).
 
