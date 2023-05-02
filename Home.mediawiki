@@ -37,7 +37,7 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |-
 |3. Thurs May 4
 |Sam Hadden
-|[https://github.com/CITA/CTA200H/tree/master/lecture6 Symbolic Computation]
+|[https://github.com/CITA/CTA200H/tree/master/lecture6_Symbolic_Computation]
 |-
 |4. Fri May 5
 |Janosz Dewberry
