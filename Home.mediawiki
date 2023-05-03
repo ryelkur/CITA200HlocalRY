@@ -27,15 +27,15 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |Instructor
 |Topic
 |-
-|1. Tues May 2
+|1. Tue May 2
 |Norm Murray
 |[[Lecture 1 |Using the CITA Systems, Linux and Git]]
 |-
-|2. Weds May 3
+|2. Wed May 3
 |Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_2_python_intro Python Language Intro and Workflow]
 |-
-|3. Thurs May 4
+|3. Thu May 4
 |Sam Hadden
 |[https://github.com/CITA/CTA200H/tree/master/lecture_6_symbolic_python Symbolic Computation]
 |-
@@ -47,15 +47,15 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_3_managing_code Structuring Your Projects]
 |-
-|6. Tues May 9
+|6. Tue May 9
 |Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_6_statistics Statistics and Data Analysis Tools (Carl-Johan Haster)]
 |-
-|7. Weds May 10
+|7. Wed May 10
 | Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_7_data_wrangling Data IO/Data Manipulation (Mubdi Rahman) ]
 |-
-|8. Thurs May 11
+|8. Th May 11
 |Norm
 |[https://github.com/CITA/CTA200H/tree/master/lecture_8_monte_carlo Monte Carlo Methods (Carl-Johan Haster)]
 |-
