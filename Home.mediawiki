@@ -49,11 +49,11 @@ This is a list of dates and topics for the course. (Preliminary -- subject to ch
 |-
 |6. Tue May 9
 |Norm
-|[https://github.com/CITA/CTA200H/tree/master/lecture_6_statistics Statistics and Data Analysis Tools (Carl-Johan Haster)]
+|[https://github.com/CITA/CTA200H/tree/master/lecture_5_data_wrangling Data IO/Data Manipulation (Mubdi Rahman) ]
 |-
 |7. Wed May 10
 | Norm
-|[https://github.com/CITA/CTA200H/tree/master/lecture_7_data_wrangling Data IO/Data Manipulation (Mubdi Rahman) ]
+|[https://github.com/CITA/CTA200H/tree/master/lecture_7_statistics Statistics and Data Analysis Tools (Carl-Johan Haster)]
 |-
 |8. Th May 11
 |Norm
